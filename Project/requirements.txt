@@ -1,0 +1,3 @@
+# change the versions as needed
+Django==6.0.3
+requests==2.32.5
